@@ -10,7 +10,5 @@
 - 🔹 Aplicações com JavaScript
 
 ## 📫 Entre em contato:
-- 📸 Instagram: [@seu_user](https://instagram.com/seu_user)
-- 💼 LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seu_user)
 
 > “A prática leva à perfeição. Cada linha de código é uma conquista.”
