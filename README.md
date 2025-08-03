@@ -1,4 +1,4 @@
-<h1 align="center">💰 Seja bem-vindo ao meu cofre digital!</h1>
+<h1 align="center">💰 Seja bem-vindo ao meu cofre digital! 💰</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="200"/>
