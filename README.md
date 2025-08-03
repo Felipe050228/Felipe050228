@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Olá! Eu sou o Felipe 👋</h1>
 
-<!--
-**Felipe050228/Felipe050228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📘 Estudante de tecnologia | Iniciando na programação  
+💻 Aprendendo: Python, C#, Java, JavaScript, HTML & CSS  
+🚀 Em constante evolução e sempre buscando aprender mais
 
-Here are some ideas to get you started:
+## 🚧 Projetos em andamento:
+- 🔹 IA com Python
+- 🔹 Sites com HTML e CSS
+- 🔹 Aplicações com JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Entre em contato:
+- 📸 Instagram: [@seu_user](https://instagram.com/seu_user)
+- 💼 LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seu_user)
+
+> “A prática leva à perfeição. Cada linha de código é uma conquista.”
