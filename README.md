@@ -1,51 +1,39 @@
-<h1 align="center">Olá 👋, eu sou o Felipe Alencar</h1>
+<h1 align="center">👋 E aí, tudo certo? Eu sou o Felipe Alencar</h1>
+
 <p align="center">
-  🚀 Estudante de programação em evolução constante <br/>
-  💻 Python • C# • Java • JavaScript • HTML • CSS <br/>
-  🎯 Focado em automação, web e inteligência artificial
+  💻 Desenvolvedor iniciante apaixonado por tecnologia<br>
+  🚀 Aprendendo Python, C#, Java, JavaScript, HTML & CSS<br>
+  📚 Estudante de tecnologia, em busca de evolução constante
 </p>
 
----
-
-### 💡 Sobre mim
-- 📚 Estudante de tecnologia e entusiasta de desenvolvimento
-- 🔍 Sempre aprendendo algo novo e melhorando projetos
-- ✍️ Atualmente estudando para o ENEM e me aprofundando em programação
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&center=true&vCenter=true&lines=Bem-vindo+ao+meu+GitHub!;Aprendendo+todo+dia!;Construindo+meu+futuro+com+código.">
+</div>
 
 ---
 
-### 📌 Tecnologias que estou aprendendo:
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🚧 Em aprendizado:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=csharp&logoColor=white)
 
 ---
 
-### 📂 Repositórios em destaque
-Aqui estão alguns dos meus projetos (em construção):
-
-- `📁 meus-projetos`: Repositório com vários estudos e testes
-- `🧠 automacao-python`: Automatizando tarefas simples com Python
-- `🌐 site-html-css`: Meu primeiro site com HTML e CSS
-- `🧮 calculadora-javascript`: Projeto simples de calculadora web
+### 🧠 Meus objetivos:
+- 🔨 Criar projetos de automação com Python
+- 🌐 Desenvolver sites e interfaces com HTML/CSS/JS
+- 📈 Evoluir para inteligência artificial e apps interativos
+- 🎯 Me preparar para o mercado e para o ENEM
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Felipe050228&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe050228&layout=compact&theme=tokyonight" />
-</p>
+### 🛠️ Projetos em destaque:
+| 💼 Projeto | 🔍 Descrição | 🔗 Link |
+|-----------|-------------|--------|
+| **Automação com Python** | Scripts para tarefas do dia a dia com `pyautogui` e `openpyxl` | *(em breve)* |
+| **Meu primeiro site** | Página HTML e CSS feita do zero | *(em breve)* |
+| **Calculadora Web** | Calculadora com HTML, CSS e JavaScript | *(em breve)* |
 
----
-
-### 📫 Contato
-- 📸 Instagram: [@seu_user](https://instagram.com/seu_user)
-- 💼 LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seu_user) _(se tiver)_
-
----
-
-> 💬 “Código limpo é como humor: quando você tem que explicar, não é tão bom assim.” — Martin Fowler
