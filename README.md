@@ -1,9 +1,5 @@
 <h1 align="center">💰 Bem-vindo ao meu cofre digital! 💰 </h1>
 
-<p align="center">
-  <img src="https://assets.pinterest.com/ext/embed.html" width="250"/>
-</p>
-
 <h3 align="center">Eu sou o Felipe Alencar 🧠💻</h3>
 
 <p align="center">
