@@ -1,7 +1,7 @@
 <h1 align="center">💰 Seja bem-vindo ao meu cofre digital! 💰</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Yxbmh2ZnF1ZnhsbnExNTRoem1uMWQ3aTgwazNlM3N3eThpY3JkZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT77XmzAK9HzwwmSD6/giphy.gif"width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGh0MWJtM3JtczlhbDJlbGMyM3d4eWVnNmM1Z3c0ZHFxM3gwNGdrcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Nx0rz3jtxtEre/giphy.gif"width="200"/>
 </p>
 
 <h3 align="center">Eu sou o Felipe Alencar 🧠💻</h3>
