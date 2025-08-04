@@ -1,62 +1,63 @@
-<h1 align="center">💰 Seja bem-vindo ao meu cofre digital! 💰</h1>
+<h1 align="center">💰 Bem-vindo ao meu cofre digital! 💰 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/G7dGXzG4U0Q8Q/giphy.gif" width="300"/>
+  <img src="https://media.tenor.com/images/…GOLD…gif" width="250"/>
 </p>
-
 
 <h3 align="center">Eu sou o Felipe Alencar 🧠💻</h3>
 
 <p align="center">
-  Programador iniciante investindo pesado no meu futuro 💼 <br/>
-  guardo cada linha de código como um tesouro 🪙<br/>
-  Estudando com foco e determinação para crescer na tecnologia 🚀
+  Desenvolvedor iniciante construindo meu império digital.  
+  cada linha de código é um tesouro valioso.  
+  Estudo com foco e disciplina para crescer na tecnologia 🚀
 </p>
 
 ---
 
-### 📚 Atualmente aprendendo:
+### 📚 Tecnologias que estou aprendendo
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![CSharp](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ---
 
-### 🧭 Meus objetivos com a programação:
-- 🧱 Construir bases sólidas com boas práticas
-- 💡 Criar projetos que mostrem minha evolução
-- 🧠 Me aprofundar em inteligência artificial
-- 🎓 Estudar para o ENEM sem abandonar a programação
-- 🪙 Aprender algo novo todos os dias (e registrar aqui!)
+### 🎯 Objetivos com a programação
+
+- Construir projetos sólidos com boas práticas  
+- Mostrar minha evolução com trabalhos reais  
+- Estudar inteligência artificial e desenvolvimento web  
+- Me preparar para o ENEM com equilíbrio entre estudo e código  
+- Aprender algo novo todo dia (e registrar meus resultados aqui)
 
 ---
 
-### 📂 Cofre dos projetos (em construção):
-| 💼 Projeto | 📝 Descrição |
-|-----------|-------------|
-| **site-html-css** | Meu primeiro site do zero, com estrutura e estilo próprio |
-| **calculadora-js** | Calculadora simples usando HTML, CSS e JavaScript |
-| **projetos-do-curso** | Repositório com estudos de Python e outras linguagens |
+### 💾 Cofre dos projetos (em construção)
+
+| Projeto                  | Descrição                                      |
+|-------------------------|------------------------------------------------|
+| **site-html-css**       | Meu primeiro site criado do zero              |
+| **calculadora-js**      | Calculadora simples com HTML/CSS/JavaScript   |
+| **projetos-do-curso**   | Repositório com exercícios e estudos diversos |
 
 ---
 
----
-
-### 📊 Estatísticas do Cofre
+### 📊 Estatísticas de atividades
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Felipe050228&show_icons=true&locale=pt-br&theme=dracula&border_radius=12" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe050228&layout=compact&locale=pt-br&theme=dracula&border_radius=12" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Felipe050228&theme=solarized_dark&show_icons=true&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe050228&layout=compact&theme=solarized_dark&hide_border=true" width="45%" />
 </p>
 
 ---
 
-### 📫 Onde me encontrar:
-- 📸 Instagram: [@seu_user](https://instagram.com/seu_user)
-- 💬 Me chama se quiser trocar ideias ou colar nos estudos
+### 📫 Contato
+
+- 📸 Instagram: [@seu_user](https://instagram.com/seu_user)  
+- 💬 Vamos trocar ideias sobre programação e tecnologia!
 
 ---
 
