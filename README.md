@@ -8,7 +8,7 @@
 
 <p align="center">
   Programador iniciante investindo pesado no meu futuro 💼 <br/>
-  Como o Tio Patinhas, guardo cada linha de código como um tesouro 🪙<br/>
+  guardo cada linha de código como um tesouro 🪙<br/>
   Estudando com foco e determinação para crescer na tecnologia 🚀
 </p>
 
@@ -56,6 +56,6 @@
 
 ---
 
-> 🧠 *“Riqueza de verdade é o conhecimento que a gente guarda na cabeça.”* — Tio Patinhas... e eu também 😄
+> 🧠 *“Riqueza de verdade é o conhecimento que a gente guarda na cabeça.”* 
 
 
