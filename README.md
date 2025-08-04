@@ -1,7 +1,7 @@
 <h1 align="center">💰 Bem-vindo ao meu cofre digital! 💰 </h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/images/…GOLD…gif" width="250"/>
+  <img src="https://assets.pinterest.com/ext/embed.html" width="250"/>
 </p>
 
 <h3 align="center">Eu sou o Felipe Alencar 🧠💻</h3>
@@ -45,11 +45,20 @@
 
 ---
 
-### 📊 Estatísticas de atividades
+### 📊 Estatísticas do Cofre
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Felipe050228&theme=solarized_dark&show_icons=true&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe050228&layout=compact&theme=solarized_dark&hide_border=true" width="45%" />
+  <!-- Cartão de estatísticas principais -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Felipe050228&show_icons=true&theme=blueberry&locale=pt-br&hide_border=true"
+    width="48%" 
+  />
+
+  <!-- Cartão de linguagens mais usadas -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe050228&layout=compact&theme=blueberry&locale=pt-br&hide_border=true"
+    width="48%" 
+  />
 </p>
 
 ---
