@@ -51,6 +51,7 @@
   />
 
   <!-- Cartão de linguagens mais usadas -->
+  <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe050228&layout=compact&theme=blueberry&locale=pt-br&hide_border=true"
     width="48%" 
