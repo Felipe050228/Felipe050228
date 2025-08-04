@@ -1,7 +1,7 @@
 <h1 align="center">💰 Seja bem-vindo ao meu cofre digital! 💰</h1>
 
 <p align="center">
-  <img src="<iframe src="https://assets.pinterest.com/ext/embed.html?id=20055160839750010" height="336" width="236" frameborder="0" scrolling="no" ></iframe>" width="200"/>
+  <img src="<iframe src="https:assets.pinterest.comextembed.html?id=20055160839750010" width="200"/>
 </p>
 
 <h3 align="center">Eu sou o Felipe Alencar 🧠💻</h3>
