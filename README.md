@@ -52,14 +52,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe050228&layout=compact&locale=pt-br&theme=dracula&border_radius=12" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Felipe050228&theme=dracula&locale=pt-br" width="95%"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Felipe050228/Felipe050228/output/github-contribution-grid-snake.svg" alt="snake gif" width="90%">
-</p>
-
 ---
 
 ### 📫 Onde me encontrar:
