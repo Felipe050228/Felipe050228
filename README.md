@@ -56,10 +56,12 @@
 
 <!-- Snake animation -->
 <p align="center">
-  <img 
-    src="https://github.com/Felipe050228/Felipe050228/raw/output/github-contribution-grid-snake.svg"
-    alt="Snake animation"
-  />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seunome/seunome/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seunome/seunome/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/seunome/seunome/output/github-contribution-grid-snake.svg">
+</picture>
+
 </p>
 
 ---
