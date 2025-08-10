@@ -1,48 +1,44 @@
-<h1 align="center">💰 Bem-vindo ao meu cofre digital! 💰 </h1>
+<h1 align="center">💰 Seja bem-vindo ao meu cofre digital!💰 </h1>
 
 <h3 align="center">Eu sou o Felipe Alencar 🧠💻</h3>
 
 <p align="center">
-  Desenvolvedor iniciante construindo meu império digital.  
-  cada linha de código é um tesouro valioso.  
-  Estudo com foco e disciplina para crescer na tecnologia 🚀
+  Programador iniciante investindo pesado no meu futuro 💼 <br/>
+  guardo cada linha de código como um tesouro 🪙<br/>
+  Estudando com foco e determinação para crescer na tecnologia 🚀
 </p>
 
 ---
 
-### 📚 Tecnologias que estou aprendendo
-
+### 📚 Atualmente aprendendo:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![CSharp](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ---
 
-### 🎯 Objetivos com a programação
-
-- Construir projetos sólidos com boas práticas  
-- Mostrar minha evolução com trabalhos reais  
-- Estudar inteligência artificial e desenvolvimento web  
-- Me preparar para o ENEM com equilíbrio entre estudo e código  
-- Aprender algo novo todo dia (e registrar meus resultados aqui)
+### 🧭 Meus objetivos:
+- 🧱 Construir bases sólidas com boas práticas
+- 💡 Criar projetos que mostrem minha evolução
+- 🧠 Me aprofundar em inteligência artificial
+- 🎓 Estudar para o ENEM sem abandonar a programação
+- 🪙 Aprender algo novo todos os dias (e registrar aqui!)
 
 ---
 
-### 💾 Cofre dos projetos (em construção)
-
-| Projeto                  | Descrição                                      |
-|-------------------------|------------------------------------------------|
-| **site-html-css**       | Meu primeiro site criado do zero              |
-| **calculadora-js**      | Calculadora simples com HTML/CSS/JavaScript   |
-| **projetos-do-curso**   | Repositório com exercícios e estudos diversos |
+### 📂 Cofre dos projetos (em construção):
+| 💼 Projeto | 📝 Descrição |
+|-----------|-------------|
+| **site-html-css** | Meu primeiro site do zero, com estrutura e estilo próprio |
+| **calculadora-js** | Calculadora simples usando HTML, CSS e JavaScript |
+| **projetos-do-curso** | Repositório com estudos de Python e outras linguagens |
 
 ---
 
 ### 📊 Estatísticas do Cofre
-
 <p align="center">
   <!-- Cartão de estatísticas principais -->
   <img 
@@ -51,22 +47,28 @@
   />
 
   <!-- Cartão de linguagens mais usadas -->
-  <p align="center">
+<p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe050228&layout=compact&theme=blueberry&locale=pt-br&hide_border=true"
     width="48%" 
   />
 </p>
 
+<!-- Snake animation -->
+<p align="center">
+  <img 
+    src="https://github.com/Felipe050228/Felipe050228/raw/output/github-contribution-grid-snake.svg"
+    alt="Snake animation"
+  />
+</p>
+
 ---
 
-### 📫 Contato
-
-- 📸 Instagram: [@seu_user](https://instagram.com/seu_user)  
-- 💬 Vamos trocar ideias sobre programação e tecnologia!
+### 📫 Onde me encontrar:
+- 📸 Instagram: [@felipe_alencar05](https://instagram.com/felipe_alencar05)
+- 💬 Me chama se quiser trocar ideias ou colar nos estudos
 
 ---
 
-> 🧠 *“Riqueza de verdade é o conhecimento que a gente guarda na cabeça.”* 
-
+> 🧠 *“Riqueza de verdade é o conhecimento que a gente guarda na cabeça.”*
 
