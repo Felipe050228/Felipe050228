@@ -52,11 +52,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe050228&layout=compact&theme=blueberry&locale=pt-br&hide_border=true"
     width="48%" 
   />
-</p>
-
-<!-- Snake animation -->
-<p align="center">
-   ![github contribution grid snake animation](https://felipe050228.github.io/snake-game-js/github-contribution-grid-snake.svg)
+  
 ---
 
 ### 📫 Onde me encontrar:
