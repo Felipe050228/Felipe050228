@@ -1,65 +1,73 @@
-<h1 align="center">💰 Seja bem-vindo ao meu cofre digital!💰 </h1>
 
-<h3 align="center">Eu sou o Felipe Alencar 🧠💻</h3>
+<!-- Título -->
+<h1 align="center">
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/money-bag_1f4b0.png" width="40px">  
+  Bem-vindo ao meu Cofre Digital!  
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/money-bag_1f4b0.png" width="40px">
+</h1>
 
 <p align="center">
-  Programador iniciante investindo pesado no meu futuro 💼 <br/>
-  guardo cada linha de código como um tesouro 🪙<br/>
-  Estudando com foco e determinação para crescer na tecnologia 🚀
+  <b>💻 Programador iniciante investindo pesado no meu futuro 🚀</b><br>
+  <i>Guardo cada linha de código como um verdadeiro tesouro 🪙</i><br>
+  Estudando com foco e determinação para crescer na tecnologia 📈
 </p>
 
 ---
 
-### 📚 Atualmente aprendendo:
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![CSharp](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
----
-
-### 🧭 Meus objetivos:
-- 🧱 Construir bases sólidas com boas práticas
-- 💡 Criar projetos que mostrem minha evolução
-- 🧠 Me aprofundar em inteligência artificial
-- 🎓 Estudar para o ENEM sem abandonar a programação
-- 🪙 Aprender algo novo todos os dias (e registrar aqui!)
-
----
-
-### 📂 Cofre dos projetos (em construção):
-| 💼 Projeto | 📝 Descrição |
-|-----------|-------------|
-| **site-html-css** | Meu primeiro site do zero, com estrutura e estilo próprio |
-| **calculadora-js** | Calculadora simples usando HTML, CSS e JavaScript |
-| **projetos-do-curso** | Repositório com estudos de Python e outras linguagens |
-
----
-
-### 📊 Estatísticas do Cofre
+## 🚀 Atualmente aprendendo
 <p align="center">
-  <!-- Cartão de estatísticas principais -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Felipe050228&show_icons=true&theme=blueberry&locale=pt-br&hide_border=true"
-    width="48%" 
-  />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+</p>
 
-  <!-- Cartão de linguagens mais usadas -->
+---
+
+## 🎯 Meus Objetivos (Roadmap)
+- [ ] Construir bases sólidas com boas práticas  
+- [ ] Criar projetos que mostrem minha evolução  
+- [ ] Me aprofundar em Inteligência Artificial  
+- [ ] Estudar para o ENEM sem abandonar a programação  
+- [ ] Aprender algo novo todos os dias (e registrar aqui)  
+
+---
+
+## 📂 Projetos em Destaque
+| 🗂 Projeto | 📜 Descrição | 🔗 Link |
+|-----------|--------------|--------|
+| 🌐 **Site HTML+CSS** | Meu primeiro site do zero, com estrutura e estilo próprio | [Ver Repositório](https://github.com/Felipe050228/site-html-css) |
+| 🧮 **Calculadora JS** | Calculadora simples usando HTML, CSS e JavaScript | [Ver Repositório](https://github.com/Felipe050228/calculadora-js) |
+| 📚 **Projetos do Curso** | Repositório com estudos de Python e outras linguagens | [Ver Repositório](https://github.com/Felipe050228/projetos-do-curso) |
+
+---
+
+## 📊 Estatísticas do Cofre
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe050228&layout=compact&theme=blueberry&locale=pt-br&hide_border=true"
-    width="48%" 
-  />
-  
----
-
-### 📫 Onde me encontrar:
-- 📸 Instagram: [@felipe_alencar05](https://instagram.com/felipe_alencar05)
-- 💬 Me chama se quiser trocar ideias ou colar nos estudos
+  <img src="https://github-readme-stats.vercel.app/api?username=Felipe050228&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=pt-br" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe050228&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=pt-br" height="165px"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Felipe050228&theme=tokyonight&hide_border=true&background=0D1117&locale=pt-br" height="165px"/>
+</p>
 
 ---
 
-> 🧠 *“Riqueza de verdade é o conhecimento que a gente guarda na cabeça.”*
+## 🌍 Onde me Encontrar
+<p align="center">
+  <a href="https://instagram.com/felipe_alencar05" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:felipealencar050228@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
+---
+
+> 💡 **"Riqueza de verdade é o conhecimento que a gente guarda na cabeça."**  
