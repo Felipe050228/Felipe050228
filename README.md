@@ -32,11 +32,11 @@
 
 ## 📊 Estatísticas do Cofre
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Felipe050228&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=pt-br" height="165px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe050228&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=pt-br" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Felipe050228&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&locale=pt-br" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe050228&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&locale=pt-br" height="165px"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Felipe050228&theme=tokyonight&hide_border=true&background=0D1117&locale=pt-br" height="165px"/>
+  <img src="https://streak-stats.demolab.com?user=Felipe050228&theme=dark&hide_border=true&background=0D1117&locale=pt-br" height="165px"/>
 </p>
 
 ---
