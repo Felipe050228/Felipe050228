@@ -15,13 +15,9 @@
 ---
 
 ## 🚀 Atualmente aprendendo
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </p>
 
 ---
@@ -30,17 +26,7 @@
 - [ ] Construir bases sólidas com boas práticas  
 - [ ] Criar projetos que mostrem minha evolução  
 - [ ] Me aprofundar em Inteligência Artificial  
-- [ ] Estudar para o ENEM sem abandonar a programação  
 - [ ] Aprender algo novo todos os dias (e registrar aqui)  
-
----
-
-## 📂 Projetos em Destaque
-| 🗂 Projeto | 📜 Descrição | 🔗 Link |
-|-----------|--------------|--------|
-| 🌐 **Site HTML+CSS** | Meu primeiro site do zero, com estrutura e estilo próprio | [Ver Repositório](https://github.com/Felipe050228/site-html-css) |
-| 🧮 **Calculadora JS** | Calculadora simples usando HTML, CSS e JavaScript | [Ver Repositório](https://github.com/Felipe050228/calculadora-js) |
-| 📚 **Projetos do Curso** | Repositório com estudos de Python e outras linguagens | [Ver Repositório](https://github.com/Felipe050228/projetos-do-curso) |
 
 ---
 
