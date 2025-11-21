@@ -7,28 +7,10 @@
 </h1>
 
 <p align="center">
-  <b>💻 Programador iniciante investindo pesado no meu futuro 🚀</b><br>
+  <b> <i>💻 Programador iniciante investindo pesado no meu futuro 🚀</i></b><br>
   <i>Guardo cada linha de código como um verdadeiro tesouro 🪙</i><br>
-  Estudando com foco e determinação para crescer na tecnologia 📈
+  <i>Estudando com foco e determinação para crescer na tecnologia 📈</i>
 </p>
-
----
-
-## 🚀 Atualmente aprendendo
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-</p>
-
----
-
-## 🎯 Meus Objetivos (Roadmap)
-- [ ] Construir bases sólidas com boas práticas  
-- [ ] Criar projetos que mostrem minha evolução  
-- [ ] Me aprofundar em Inteligência Artificial  
-- [ ] Aprender algo novo todos os dias (e registrar aqui)  
-
----
 
 ## 📊 Estatísticas do Cofre
 <p align="center">
@@ -39,10 +21,18 @@
   <img src="https://streak-stats.demolab.com?user=Felipe050228&theme=dark&hide_border=true&background=0D1117&locale=pt-br" height="165px"/>
 </p>
 
+<p>
+  <img align="center" alt="FE-Java" height="50" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align="center" alt="FE-Java" height="50" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="FE-Java" height="50" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+  <img align="center" alt="FE-Java" height="50" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="FE-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />               
+</p>
+          
 ---
 
 ## 🌍 Onde me Encontrar
-<p align="center">
+<p align=>
   <a href="https://instagram.com/felipe_alencar05" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
