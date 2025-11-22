@@ -5,7 +5,6 @@
   <b>💰 Bem-vindo ao meu Cofre Digital! 💰</b>
 </h1>
 
-<br>
 
 <div align="center">
   <h3>🚀💻 <b><i>Programador Iniciante em Evolução</i></b></h3>
