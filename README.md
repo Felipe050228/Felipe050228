@@ -19,6 +19,7 @@
 ---
 
 ## 🧠 Sobre mim
+- 👤 Meu nome e Felipe Alencar Lima
 - 💼 Tenho 17 anos e estou construindo minha carreira em tecnologia  
 - ⚡ Estudante dedicado de Python e Java  
 - 🎯 Focado em IA,automação,jogos e boas práticas de programação  
