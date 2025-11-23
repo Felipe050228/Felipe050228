@@ -1,6 +1,6 @@
 <h1 align="center">
 
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTJ6Nm8xcmxqbThnZGJoaWtlZWdvdmxyd3E0cGY5cnZ4ODlkaGRmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YZGJc1WmUZPi0/giphy.gif" width="400px">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTJ6Nm8xcmxqbThnZGJoaWtlZWdvdmxyd3E0cGY5cnZ4ODlkaGRmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YZGJc1WmUZPi0/giphy.gif" width="350px">
   <br><br>
   <b>💰 Bem-vindo ao meu Cofre Digital! 💰</b>
 </h1>
