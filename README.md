@@ -1,16 +1,15 @@
 <h1 align="center">
 
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTJ6Nm8xcmxqbThnZGJoaWtlZWdvdmxyd3E0cGY5cnZ4ODlkaGRmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YZGJc1WmUZPi0/giphy.gif" width="350px">
+  <img src="https://media4.giphy.com/media/YZGJc1WmUZPi0/giphy.gif" width="350px">
   <br><br>
   <b>💰 Bem-vindo ao meu Cofre Digital! 💰</b>
 </h1>
-
 
 <div align="center">
   <h3>🚀💻 <b><i>Programador Iniciante em Evolução</i></b></h3>
   <p>
     <i>Transformando estudo em conhecimento e conhecimento em futuro. 📈</i><br>
-    <i>Cada linha de código é um investimento no meu futuro. 🪙</i><br>
+    <i>Cada linha de código é um investimento na minha evolução. 🪙</i><br>
     <i>Crescendo um pouco mais todos os dias.</i>
   </p>
 </div>
@@ -18,10 +17,10 @@
 ---
 
 ## 🧠 Sobre mim
-- 👤 Meu nome e Felipe Alencar Lima
-- 💼 Tenho 17 anos e estou construindo minha carreira em tecnologia  
-- ⚡ Estudante dedicado de Python e Java  
-- 🎯 Focado em IA,automação,jogos e boas práticas de programação  
+- 👤 Meu nome é **Felipe Alencar Lima**
+- 💼 Tenho **17 anos** e estou construindo minha carreira em tecnologia  
+- ⚡ Estudante dedicado de **Python** e **Java**  
+- 🎯 Focado em **IA, automação, jogos** e boas práticas de programação  
 - 📚 Estudo todos os dias com disciplina e constância  
 - 💬 Sempre aprendendo algo novo — evolução é diária  
 
@@ -42,7 +41,7 @@
 
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Felipe050228&show_icons=true&theme=great-gatsby&hide_border=false"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe050228&layout=compact&theme=great-gatsby&hide_border=false"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=Felipe050228&theme=great-gatsby&hide_border=false"/>
+  <img height="165" src="https://streak-stats.vercel.app?user=Felipe050228&theme=great-gatsby&hide_border=false"/>
 
 </div>
 
@@ -68,7 +67,6 @@
 ---
 
 <div align="center">
-  <h3>💰✨ <strong><i>"Riqueza de verdade é o conhecimento que a gente guarda na cabeça."</i></strong> ✨💰</h3>
+  <h3>💰✨ <strong><i>"A verdadeira riqueza é o conhecimento que carregamos para o futuro."</i></strong> ✨💰</h3>
 </div>
-
 
