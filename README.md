@@ -39,21 +39,14 @@
 ## 📈 Estatísticas do Cofre
 <div align="center">
 
-  <!-- Badge GitHub stats (alternativa estável) -->
-  <img height="165" src="https://img.shields.io/badge/GitHub-Estatísticas-informational?style=for-the-badge&logo=github"/>
+  <img height="165" src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=Felipe050228&show_icons=true&theme=great-gatsby&hide_border=false&cache_seconds=7200"/>
 
-  <!-- Linguagens principais (link para a página do GitHub Top langs) -->
-  <a href="https://github.com/Felipe050228?tab=repositories">
-    <img height="165" src="https://img.shields.io/badge/Top%20Languages-Confira%20no%20perfil-lightgrey?style=for-the-badge"/>
-  </a>
-
-  <!-- Streak (link simples caso a imagem esteja dando problema) -->
-  <a href="https://github.com/Felipe050228">
-    <img height="165" src="https://img.shields.io/badge/Commit%20Streak-Ver%20no%20perfil-success?style=for-the-badge"/>
-  </a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe050228&layout=compact&theme=great-gatsby&hide_border=false"/>
+  <img height="165" src="https://streak-stats.vercel.app?user=Felipe050228&theme=great-gatsby&hide_border=false"/>
 
 </div>
 
+---
 
 ## 🎯 O que estou estudando agora
 - 🔸 Python aplicado à Inteligência Artificial 
@@ -77,3 +70,4 @@
 <div align="center">
   <h3>💰✨ <strong><i>"A verdadeira riqueza é o conhecimento que carregamos para o futuro."</i></strong> ✨💰</h3>
 </div>
+
