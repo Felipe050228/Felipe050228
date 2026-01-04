@@ -40,16 +40,7 @@
 ## 📈 Estatísticas do Cofre
 
 <div align="center">
-
-  <img 
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=Felipe050228&show_icons=true&theme=great-gatsby&hide_border=false&cache_seconds=86400"
-/>
-
-<img 
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe050228&layout=compact&theme=great-gatsby&hide_border=false&cache_seconds=86400"
-/>
+  
 
   <img 
     height="165"
